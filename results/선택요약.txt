@@ -1,0 +1,4 @@
+모델: XGBoost(차이 예측)
+학습기간: 전체(2022~)
+파라미터: {'n_estimators': 1000, 'learning_rate': 0.1, 'max_depth': 3}
+검증 RMSE: 99.74
